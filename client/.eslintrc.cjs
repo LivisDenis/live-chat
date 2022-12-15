@@ -34,6 +34,7 @@ module.exports = {
         'import/prefer-default-export': 0,
         'react/jsx-props-no-spreading': 0,
         'react/require-default-props': 0,
+        "react/react-in-jsx-scope": 'off',
         'react/button-has-type': 0,
         'react/no-unstable-nested-components': [2, { allowAsProps: true }],
         'react/no-array-index-key': 0,
